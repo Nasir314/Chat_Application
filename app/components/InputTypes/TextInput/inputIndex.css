@@ -1,0 +1,28 @@
+.InputMdb::-webkit-input-placeholder {
+    color: #42425D  !important;
+}
+
+.form-control{
+    height:35px;
+    /* border:1px solid #42425D; */
+    border: 1px solid lightgrey;
+    color: #42425D;
+    outline: none;
+    font-size: 15px;
+}
+
+.form-control::active{
+    /* border:1px solid #42425D; */
+    border: 1px solid lightgrey;
+    outline: none
+}
+
+.form-control::selection{
+    /* border:1px solid #42425D; */
+    border: 1px solid lightgrey;
+    outline: none;
+    background-color: white;
+    display: none;
+}
+
+/* height:"36px", border:"1px solid #42425D", color:"#42425D", width:comingWidth, outline:"none" */

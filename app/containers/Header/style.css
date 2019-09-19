@@ -1,0 +1,64 @@
+.headerLink{
+    border: none !important;
+    box-shadow: none;
+    color: #42425D;
+    border-bottom: 3px solid transparent !important;
+    padding: 15px 0px;
+    background: #fff;
+    transition: 0.3s;
+}
+
+.act-btn {
+    background: #1555bf;
+    height: 2px;
+    width: 100%;
+    position: absolute;
+    transform: translateY(-5px);
+    bottom: -7px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    opacity: 0;
+    transition: 0.3s ease-out;
+    z-index: 22;
+}
+
+.headerLink:hover, .headerLink.active{
+    border: none !important;
+    color: #1555bf !important;
+    border-bottom: 3px solid #1555bf !important;
+    cursor: "not-allowed",
+}
+
+.navbar-custom1 {
+    height: 60px;
+    background: rgb(78, 78, 95);
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.navItem-custom1 {
+    margin: 0px 30px;
+    color: #FFF !important;
+}
+
+.a-custom1 {
+    color: #f2f3f5;
+    text-decoration: none;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.a-custom1:hover {
+    text-decoration: none;
+    color: #3087e6;
+    transition: all 0.2s ease-in-out;
+    text-decoration: underline;
+}
+
+.a-custom1:active {
+    color: #c3cbd3;
+    transition: all 0.2s ease-in-out;
+    text-decoration: underline;
+}

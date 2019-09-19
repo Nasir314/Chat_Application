@@ -1,0 +1,22 @@
+.login-col1 {
+    color: #FFF;
+    background: url('../../images/login-bg.jpg') no-repeat left top; 
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.login-container {
+    padding: 50px 100px;
+    height: 600px;
+}
+.login-col1-div1 {
+    padding-top: 200px;
+}
+
+.login-col2 {
+    padding: 100px 100px;
+    background: #FFF;
+}
