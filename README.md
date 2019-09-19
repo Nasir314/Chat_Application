@@ -1,9 +1,5 @@
-# chat_application
+# Chat_application
 A chating base React.js Single page application
-
-
-#What I have used in this assignment?
-I have used React-Boilerplate, MDB(Material Design for Bootstrap), Web Socket,  For mirror chating - wss://echo.websocket.org, Storage for saving chat.
 
 #How to start the app?
 1.Firstly unzip the zip file and then go to inside the folder ‘chat_application’ using cd chat_application/
