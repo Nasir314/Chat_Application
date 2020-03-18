@@ -1,4 +1,4 @@
-# Chat_application
+# Chat_application using - Reactjs, Javascript, MDB, HTML, SCSS 
 A chating base React.js Single page application
 
 # Live Demo - https://chating-with-nasir.netlify.com/
